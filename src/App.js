@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar'
 import Main from './components/Main'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
        <Navbar />
       <Main />
+      <Footer />
     </div>
   );
 }

@@ -2,6 +2,7 @@
     display: flex;
     margin:50px;
     padding: 0;
+    margin-bottom: 0;
 }
 .left__side img {
     margin-left: -30px;
@@ -10,7 +11,7 @@
 }
 .right__side img {
     margin-top: 110px;
-    height: 43%;
+    height: 45%;
 }
 .middle__side {
     margin-left: -100px;
@@ -53,7 +54,7 @@
     border-bottom: 2px solid #0078d4;
 }
 .middle__side--icons {
-    margin-top: 30px;
+    margin-top: -5px;
     display: flex;
 }
 .android {
@@ -62,7 +63,7 @@
     padding: 0px 13px;
     border-radius: 5px;
     font-size: 30px;
-}
+}   
 .android:hover {
     background-color: rgba(214, 203, 203, 0.253);
 }

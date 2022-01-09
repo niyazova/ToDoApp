@@ -13,6 +13,7 @@
     margin-left: 25px;
     font-weight: 500;
     font-size: 14px;
+    height: 100%;
 }
 .nav__link:hover {
     border-bottom: 2px solid black;
@@ -28,7 +29,7 @@
     border-bottom: none;
 }
 .nav__link--active {
-    margin-left: 350px;
+    margin-left: 400px;
 }
 .nav__link--icon {
     font-size: 16px;
@@ -38,7 +39,7 @@
 }
 @media (max-width:1121px) {
     .nav__link--active {
-        margin-left: 120px;
+        margin-left: 90px;
     }
 }
 @media (max-width: 990px) {

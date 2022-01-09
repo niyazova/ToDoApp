@@ -26,10 +26,11 @@ function Main() {
                     <img src={both} alt="both" />
                 </div>
                 <p className="middle__side--subtitle">
-                    To Do поможет вам сосредоточиться на любом занятии — от работы до игры.
+                    To Do gives you focus, from work to play.
                 </p>
-                <button className='middle__side--button'>Начало работы</button>
-                <h4>Подробнее</h4>
+                <button className='middle__side--button'>Get started</button>
+                <h4>Learn more</h4>
+                <h3>Download</h3>
                 <div className="middle__side--icons">
                     <div className="android">
                         <AiFillAndroid />
