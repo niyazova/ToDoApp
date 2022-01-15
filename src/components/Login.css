@@ -1,0 +1,73 @@
+.login {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(202, 189, 189, 0.185);
+}
+.login__box {
+    background-color: white;
+    padding: 40px;
+    margin: 200px 0px;
+    height: 320px;
+    width: 340px;
+    border: none;
+    box-shadow: 20px black;
+}
+.login__box img {
+    margin-left: -195px;
+    object-fit: cover;  
+    height: 26px;
+    padding: 10px;
+}
+.login__box h3 {
+    margin-left: -240px;
+    font-weight: 400px;
+    font-size: 25px;
+    color: rgb(56, 50, 50);
+    margin-top: -5px;
+}
+.login__inputs {
+    margin-top: -25px;
+}
+.login__box input {
+    outline: none;
+    font-size: 17px;
+    padding: 16px 0px;
+    width: 310px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.login__box p {
+    margin-left: -155px;
+    font-size: 13px;
+}
+.login__link {
+    margin-left: -150px;
+    text-decoration: none;
+    margin-top: -15px;
+    font-size: 13px;
+}
+.login__box button{
+    height: 35px;
+    width: 120px;
+    border: none;
+    outline: none;
+    margin: 5px;
+}
+.login__btns {
+    margin-top: 15px;
+    margin-left: 57px;
+}
+.next {
+    background-color: #0067b8;
+    color: white;
+}
+.next:hover {
+    background-color: #045fa5;
+}
+.back:hover {
+    background-color: rgba(190, 182, 182, 0.438);
+}

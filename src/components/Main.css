@@ -90,7 +90,6 @@
 @media (max-width:1121px)  { 
     .main {
         display: flex;
-        
         justify-content: center;
     }
     .middle__side--img2 img {
